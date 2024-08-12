@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.cjcj55.javadesktopsudoku/com.cjcj55.javadesktopsudoku.HelloApplication
+                            <mainClass>com.cjcj55.javadesktopsudoku/com.cjcj55.sudoku.SudokuApplication
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
