@@ -1,5 +1,6 @@
 package com.cjcj55.sudoku;
 
+import com.cjcj55.sudoku.buildlogic.SudokuBuildLogic;
 import com.cjcj55.sudoku.userinterface.IUserInterfaceContract;
 import com.cjcj55.sudoku.userinterface.UserInterfaceImpl;
 import javafx.fxml.FXMLLoader;

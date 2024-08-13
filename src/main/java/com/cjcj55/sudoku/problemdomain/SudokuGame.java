@@ -1,5 +1,6 @@
 package com.cjcj55.sudoku.problemdomain;
 
+import com.cjcj55.sudoku.computationlogic.SudokuUtilities;
 import com.cjcj55.sudoku.constants.GameState;
 
 import java.io.Serializable;
